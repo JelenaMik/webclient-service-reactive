@@ -1,0 +1,3 @@
+restClient:
+  appointmentUrl: http://localhost:8153/api/v1/appointments
+  userDataUrl: http://localhost:8152/api/v1/userdata
